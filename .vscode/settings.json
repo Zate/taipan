@@ -12,5 +12,10 @@
         "vs-kubernetes.knownKubeconfigs": [
           "./kubeconfig"
       ]
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#501F02",
+        "titleBar.activeBackground": "#702B03",
+        "titleBar.activeForeground": "#FFFAF7"
     }
 }
